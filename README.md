@@ -19,6 +19,7 @@ Meu nome é Rodrigo Cristo sou iniciante no aprendizado de programação como pr
   <a href="(https://www.linkedin.com/in/rodrigo-moreira-scudeler-cri-2724a930/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
   </a>
+  </p>
   
   
   <br>
